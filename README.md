@@ -12,11 +12,11 @@
 
 ### Screenshot: 
 
-![img](https://user-images.githubusercontent.com/95178233/197386533-37d0abac-aa74-472a-9451-1c4ef72bdfaa.jpg)
+    ![img](https://user-images.githubusercontent.com/95178233/197386533-37d0abac-aa74-472a-9451-1c4ef72bdfaa.jpg)
 
 ### Link
 
-- Link Live url- https://github.com/tdebella/hangman-game/
+    Link Live url- https://github.com/tdebella/hangman-game/
 
 ### How To Play The Game - pseudocode steps:
 
@@ -27,12 +27,12 @@
 - Total number of guesses before the player won or lose ||
 - Current progress
 
-#### Rule 
-    - we need at least 2 players with different roles
+#### Rule
+   We need at least 2 players with different roles
     
 #### Two main steps in creating the game:
-  - build the structure - create the static version of the app
-  - add functionalities - identify what state wee need
+   Build the structure - create the static version of the app
+   Add functionalities - identify what state wee need
 
 ### Challenge/Task:
 
@@ -41,7 +41,7 @@
 
 ### Technologies used:
 
-- React -JS library and CSS3
+    React -JS library and CSS3
 
 ### Project Specifications
 
@@ -55,4 +55,4 @@
 
 ### Lessons I learned:
 
-- learn react concepts while playing the game!
+   Learn react concepts while playing the game!
