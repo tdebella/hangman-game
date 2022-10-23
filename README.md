@@ -4,6 +4,20 @@
 
 - I chose Hangman game because I’m interested to learn & share solving word problems. I use modern react hooks to build the game.
 
+#### Authors
+
+- Tesfaye Robelle
+  - https://github.com/tdebella
+  - https://www.linkedin.com/in/tesfaye-robelle-4a2b7921a/
+
+### Screenshot: 
+
+![img](https://user-images.githubusercontent.com/95178233/197386533-37d0abac-aa74-472a-9451-1c4ef72bdfaa.jpg)
+
+### Link
+
+- Link Live url- https://github.com/tdebella/hangman-game/
+
 ### How To Play The Game - pseudocode steps:
 
 - Matched letters ||
