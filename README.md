@@ -27,7 +27,9 @@
 - Total number of guesses before the player won or lose ||
 - Current progress
 
-- Rule - we need at least 2 players with different roles
+- Rule 
+    - we need at least 2 players with different roles
+    
 - Two main steps in creating the game:
   - build the structure - create the static version of the app
   - add functionalities - identify what state wee need
