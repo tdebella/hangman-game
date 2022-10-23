@@ -4,7 +4,7 @@
 
 - I chose Hangman game because I’m interested to learn & share solving word problems. I use modern react hooks to build the game.
 
-#### Authors
+#### Author
 
 - Tesfaye Robelle
   - https://github.com/tdebella
@@ -32,6 +32,7 @@
     
 #### Two main steps in creating the game:
    Build the structure - create the static version of the app
+   
    Add functionalities - identify what state wee need
 
 ### Challenge/Task:
