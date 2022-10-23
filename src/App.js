@@ -76,5 +76,7 @@ function App() {
 
 export default App;
 
+
+
 // Create Hangman Game in React.js
 // https://www.youtube.com/watch?v=82-Gnw-rBiQ&t=1014s
