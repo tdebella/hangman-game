@@ -11,8 +11,8 @@
   - https://www.linkedin.com/in/tesfaye-robelle-4a2b7921a/
 
 ### Screenshot: 
-
-    ![img](https://user-images.githubusercontent.com/95178233/197386533-37d0abac-aa74-472a-9451-1c4ef72bdfaa.jpg)
+   
+   ![img](https://user-images.githubusercontent.com/95178233/197386533-37d0abac-aa74-472a-9451-1c4ef72bdfaa.jpg)
 
 ### Link
 
@@ -56,4 +56,4 @@
 
 ### Lessons I learned:
 
-   Learn react concepts while playing the game!
+    Learn react concepts while playing interactive word game!
